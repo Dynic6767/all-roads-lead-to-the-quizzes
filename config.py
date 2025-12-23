@@ -1,1 +1,1 @@
-token = "8490186761:AAEwropn_1KO4rrtOFpLNBAgEACUbUslPtA"
+token = "cheese"
