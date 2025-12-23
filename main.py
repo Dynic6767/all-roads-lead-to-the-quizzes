@@ -54,7 +54,7 @@ def callback_query(call):
             print('cheese')
         bot.send_message(
             chat_id, 
-            "Конец печален и обиден, он есть."
+            "Конец печален и обиден, он есть. Нажмите /quiz есле хотите заново"
         )
         # Сбросим результат для нового круга
         user_responses[chat_id] = 0
